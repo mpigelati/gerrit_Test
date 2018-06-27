@@ -7,6 +7,7 @@ void main()
 	fun_sample();
 	printf("hellow\n");
 	ispalindrom(data);
+	isprime(data);
 }
 
 
